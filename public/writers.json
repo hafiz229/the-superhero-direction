@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "writer": "Stephen King",
+    "age": 28,
+    "book": "Billy Summers",
+    "price": 18,
+    "salary": 4100000,
+    "img": "https://images.gr-assets.com/authors/1362814142p8/3389.jpg"
+  },
+  {
+    "id": 2,
+    "writer": "Colson Whitehead",
+    "age": 35,
+    "book": "Harlem Shuffle",
+    "price": 20,
+    "salary": 2000000,
+    "img": "https://static.onecms.io/wp-content/uploads/sites/6/2020/05/04/GettyImages-1177301254.jpg"
+  },
+  {
+    "id": 3,
+    "writer": "Lauren Groff",
+    "age": 30,
+    "book": "Matrix",
+    "price": 23,
+    "salary": 2300000,
+    "img": "https://pbs.twimg.com/profile_images/1364588880306012160/x133-lDc_400x400.jpg"
+  },
+  {
+    "id": 4,
+    "writer": "Rachel Yoder",
+    "age": 40,
+    "book": "Nightbitch",
+    "price": 25,
+    "salary": 4500000,
+    "img": "https://lareviewofbooks-org-cgwbfgl6lklqqj3f4t3.netdna-ssl.com/wp-content/uploads/2021/08/rachelyoder.png"
+  },
+  {
+    "id": 5,
+    "writer": "T.J. Newman",
+    "age": 37,
+    "book": "Falling",
+    "price": 55,
+    "salary": 3300000,
+    "img": "https://d28hgpri8am2if.cloudfront.net/author_images/6490149/t-j-newman-181729548.jpg"
+  },
+  {
+    "id": 6,
+    "writer": "Ashley C. Ford",
+    "age": 20,
+    "book": "Somebody's Daughter",
+    "price": 34,
+    "salary": 1300000,
+    "img": "https://mmlafleur.com/wp-content/uploads/2019/09/AshleyFord-2400x3000-05-1024x1280.jpg"
+  },
+  {
+    "id": 7,
+    "writer": "Rainesford Stauffer",
+    "age": 27,
+    "book": "An Ordinary Age",
+    "price": 20,
+    "salary": 2300000,
+    "img": "https://pbs.twimg.com/profile_images/1417868344275968008/L0-jVDPr_400x400.jpg"
+  },
+  {
+    "id": 8,
+    "writer": "Zakiya Dalila Harris",
+    "age": 40,
+    "book": "The Other Black Girl",
+    "price": 25,
+    "salary": 5300000,
+    "img": "https://www.bethenexther.com/wp-content/uploads/2020/08/ZakiyaDalilaHarris2.jpg"
+  },
+  {
+    "id": 9,
+    "writer": "Clint Smith",
+    "age": 38,
+    "book": "How the Word Is Passed",
+    "price": 25,
+    "salary": 2200000,
+    "img": "https://pbs.twimg.com/profile_images/1402607189475442688/OsJUCyBJ.jpg"
+  },
+  {
+    "id": 10,
+    "writer": "Matt Bell",
+    "age": 42,
+    "book": "Appleseed",
+    "price": 25,
+    "salary": 2700000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Matt_Bell_2015.jpg/220px-Matt_Bell_2015.jpg"
+  }
+]

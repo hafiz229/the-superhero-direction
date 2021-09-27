@@ -1,0 +1,8 @@
+.card-design {
+  width: 18rem;
+  background-color: aquamarine;
+}
+
+.card-design:hover {
+  background-color: #ffc107;
+}
